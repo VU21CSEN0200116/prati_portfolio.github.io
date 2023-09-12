@@ -1,0 +1,16 @@
+.f-wrapper{
+    background-color: #0c060d;
+    color: white;
+    padding: 1.5rem;
+    padding-bottom: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.f-wrapper>div{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,32 @@
+.hero-first{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #b284ed;
+
+}
+
+.hero-left{
+    font-size: 2rem;
+    justify-content: center;  
+    line-height: 2.5rem;
+}
+.my-name{
+    color: rgb(244, 242, 247);
+}
+#hero-element{
+    color:  rgb(252, 250, 255);
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.button{
+    display: flex;
+    
+    margin: 20px;
+}
+
+
+.hero-right>img{
+    height: 20rem;
+}
