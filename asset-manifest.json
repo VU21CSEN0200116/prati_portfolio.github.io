@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prati_portfolio.github.io/static/css/main.924011e5.css",
-    "main.js": "/prati_portfolio.github.io/static/js/main.403e9ab1.js",
-    "static/js/787.28cb0dcd.chunk.js": "/prati_portfolio.github.io/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/prati_portfolio.github.io/index.html",
-    "main.924011e5.css.map": "/prati_portfolio.github.io/static/css/main.924011e5.css.map",
-    "main.403e9ab1.js.map": "/prati_portfolio.github.io/static/js/main.403e9ab1.js.map",
-    "787.28cb0dcd.chunk.js.map": "/prati_portfolio.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/prati_portfolio.github.io/my-app/static/css/main.924011e5.css",
+    "main.js": "/prati_portfolio.github.io/my-app/static/js/main.d860cffa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/prati_portfolio.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/prati_portfolio.github.io/my-app/index.html",
+    "main.924011e5.css.map": "/prati_portfolio.github.io/my-app/static/css/main.924011e5.css.map",
+    "main.d860cffa.js.map": "/prati_portfolio.github.io/my-app/static/js/main.d860cffa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/prati_portfolio.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.924011e5.css",
-    "static/js/main.403e9ab1.js"
+    "static/js/main.d860cffa.js"
   ]
 }
