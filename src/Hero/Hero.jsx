@@ -17,7 +17,7 @@ const Hero = () => {
             </div>
 
             <div className="hero-right paddings">
-                <img src="./girldev1.png" alt="developer-image" />
+                <img src="https://vu21csen0200116.github.io/prati_portfolio.github.io/girldev1.png" alt="developer-image" />
             </div>
 
 
