@@ -1,0 +1,148 @@
+
+.a-main{
+  background: #e6ea8c;
+  display: block;
+  justify-content: center; /* Center horizontally #fcb9f8 */
+  align-items: center; /* Center vertically */
+  height: 180vh; 
+}
+
+.a-container {
+    padding: 20px;
+    margin: 20px;
+    margin-left: 2rem;
+    width: 95%;
+    /* This will create space between a-left and a-right */
+    height: 56rem;
+    background: #f5f0f6;
+    color: rgb(11, 12, 5);
+    border-radius: 10px;
+    box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45), 25px 0 20px -20px rgba(0, 0, 0, 0.45), 0px 25px 20px -20px rgba(0, 0, 0, 0.45), -25px 0 20px -20px rgba(0, 0, 0, 0.45);
+  }
+  .elements{
+    display: flex;
+    justify-content: space-between; 
+  }
+  .a-left{
+    flex: 0.3;
+    text-align: center;
+  }
+  .a-middle {
+    flex: 0.3; /* This will make a-left take up 50% of the container width */
+  }
+  
+  .a-right {
+    flex: 0.5; /* This will make a-right take up 50% of the container width  */
+  }
+  
+.myimage{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+}
+
+.center-image {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 100%; /* Ensure the div takes the full height of its parent (.a-left) */
+  }
+  .line{
+    height: 0.2rem;
+    width: 100%;
+    background: #121111;
+
+}
+.line1{
+  width: 70%;
+  background: #c4b1b1;
+  margin: 0 auto;
+  height: 0.05rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head-dec {
+  background-color: #fafaf8;
+  border: #121111 solid 2px;
+  color: rgb(5, 6, 6); /* Choose your desired background color */
+  text-align: center; /* Center-align the text */
+  padding: 10px; /* Add padding to the text for spacing */
+  margin: 0; /* Reset margin to remove any default spacing */
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.buttons{
+  display: flex;
+ 
+}
+.btn4{
+  flex:0.7;
+}
+.btn5{
+  flex:0.7;
+}
+
+.quote{
+  text-align: center;
+  color: #a85aed;
+}
+.a-wrapper h2{
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+.get {
+  display: block;
+  justify-content: center;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+ 
+}
+.bottom-elements{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.education{
+  flex: 1;
+  background: #fffdfd;
+  border: #9572ca solid 3px;
+  margin: 0 1rem; /* Adjust the margin as needed to control the space between sections */
+  box-shadow: 0px 25px 20px -20px rgba(0, 0, 0, 0.45);
+ 
+  
+}
+.experience{
+  flex: 1;
+  background: #fffdfd;
+  border: #9572ca solid 3px;
+  margin: 0 1rem; /* Adjust the margin as needed to control the space between sections */
+  box-shadow: 0px 25px 20px -20px rgba(0, 0, 0, 0.45);
+}
+
+.education:hover{
+  background: #b38deb;
+  transition: ease-in 0.3s;
+  color: #eaeced;
+}
+.experience:hover{
+  background: #b38deb;
+  transition: ease-in 0.3s ;
+  color: #eaeced;
+}
+.paddings ul {
+  list-style: none;
+}
+.experience button {
+  text-align: center;
+  margin: 0 auto; /* Center horizontally */
+  display: block; /* Ensure the button takes the full width of its container */
+}
+
+.para{
+  color: #686363;
+}

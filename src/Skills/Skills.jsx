@@ -3,6 +3,7 @@ import './Skills.css'
 
 const Skills = () =>{
     return(
+        <div>
        <section className="s-wrapper">
         <div className="paddings innerWidth flexCenter s-container">
             {/*leftside*/}
@@ -22,7 +23,7 @@ const Skills = () =>{
                             <div className="flexStart">
                                 <div className="flexColStart detail">
                                     
-                                    <div><img className='flexCenter skills-image' src="./html.webp" alt="" /></div>
+                                    <div><img className='flexCenter skills-image' src="https://vu21csen0200116.github.io/prati_portfolio.github.io/html.webp" alt="" /></div>
                                     <span className='primaryText skill-name'>HTML5
                                     </span>
                                     <span className='info'><ul>
@@ -41,7 +42,7 @@ const Skills = () =>{
                             <div className="flexStart">
                                 <div className="flexColStart detail">
                                     
-                                    <div><img className='flexCenter skills-image1' src="./css.png" alt="" /></div>
+                                    <div><img className='flexCenter skills-image1' src="https://vu21csen0200116.github.io/prati_portfolio.github.io/css.png" alt="" /></div>
                                     <span className='primaryText skill-name'>CSS
                                     </span>
                                     <span className='info'><ul>
@@ -58,7 +59,7 @@ const Skills = () =>{
                             <div className="flexStart">
                                 <div className="flexColStart detail">
                                     
-                                    <div><img className='flexCenter skills-image2' src="./js.png" alt="" /></div>
+                                <div><img className='flexCenter skills-image3' src="https://vu21csen0200116.github.io/prati_portfolio.github.io/js.png" alt="" /></div>
                                     <span className='primaryText skill-name'>Javascript
                                     </span>
                                     <span className='info'><ul>
@@ -75,7 +76,7 @@ const Skills = () =>{
                             <div className="flexStart">
                                 <div className="flexColStart detail">
                                     
-                                    <div><img className='flexCenter skills-image3' src="./react1.png" alt="" /></div>
+                                    <div><img className='flexCenter skills-image3' src="https://vu21csen0200116.github.io/prati_portfolio.github.io/react1.png" alt="" /></div>
                                     <span className='primaryText skill-name'>React
                                     </span>
                                     <span className='info'><ul>
@@ -87,14 +88,13 @@ const Skills = () =>{
                                 <a href="https://www.coursera.org/account/accomplishments/certificate/BA5GC35VKYDP">Certificate</a>
                             </div>
                         </div>
-
                     </div>    
                     </div>
                 </div>
             </div>
-
-        
        </section>
+       <div className="line"></div>
+       </div>
     )
 }
 export default Skills

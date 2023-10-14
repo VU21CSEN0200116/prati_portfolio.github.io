@@ -1,0 +1,61 @@
+.p-wrapper{
+    background: #c8a7ff;
+}
+.project {
+  background-color: #fafaf8;
+    display: flex;
+    align-items: center;
+    border: 2px solid rgb(20, 20, 26);
+    margin-bottom: 2rem;
+  }
+  
+.picture{
+    height: 10rem;
+  }
+  .picture3{
+    height: 10rem;
+    width: 17rem;
+  }
+  
+.left{
+    flex: 0.3;
+}
+.desc {
+    flex: 0.7;
+    padding-left: 1rem;
+}
+
+.project:hover{
+    box-shadow: 0px 25px 20px -20px rgba(0, 0, 0, 0.45), 25px 0 20px -20px rgba(0, 0, 0, 0.45);
+
+}
+.text{
+    color: rgb(126, 123, 123);
+}
+.heading{
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(14, 15, 15);
+}
+.title-and-button {
+    display: flex;
+    align-items: center; /* Align items vertically in the middle */
+  }
+  
+  .title-and-button h2 {
+    margin: 0; /* Remove any default margin for the h2 */
+    flex: 0.7; /* Allow the h2 to take up remaining horizontal space */
+  }
+  
+  .title-and-button button {
+    margin-left: 1px; /* Add some space between the h2 and button */
+  }
+  .btn7{
+    width: 4rem;
+    height: 2rem;
+    background: #ac60d8;
+    border-radius: 5px;
+    border: 1px solid #ac60d8;
+    color: aliceblue;
+  }
+  

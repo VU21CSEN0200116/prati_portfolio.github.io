@@ -12,6 +12,7 @@
 }
 .h-left{
     font-weight: bold;
+   
 }
 .h-right{
     gap: 1rem;
@@ -23,6 +24,6 @@
 .h-menu{
     gap: 2rem;
 }
-.h-menu>*:hover{
+.h-right>*:hover{
     cursor: pointer;
 }

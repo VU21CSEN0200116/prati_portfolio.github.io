@@ -1,5 +1,6 @@
 .s-wrapper{
     background:#e6ea8c;
+    height: 95vh;
 }
 .s-container{
     justify-content: space-between;
@@ -83,4 +84,10 @@
     display: block;
     justify-content: center;
     align-items: center;
+}
+.line{
+    height: 0.2rem;
+    width: 100%;
+    background: #9d8484;
+
 }
