@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prati_portfolio.github.io/static/css/main.924011e5.css",
-    "main.js": "/prati_portfolio.github.io/static/js/main.1e277b9a.js",
+    "main.css": "/prati_portfolio.github.io/static/css/main.19912fc3.css",
+    "main.js": "/prati_portfolio.github.io/static/js/main.591801da.js",
     "static/js/787.28cb0dcd.chunk.js": "/prati_portfolio.github.io/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/prati_portfolio.github.io/index.html",
-    "main.924011e5.css.map": "/prati_portfolio.github.io/static/css/main.924011e5.css.map",
-    "main.1e277b9a.js.map": "/prati_portfolio.github.io/static/js/main.1e277b9a.js.map",
+    "main.19912fc3.css.map": "/prati_portfolio.github.io/static/css/main.19912fc3.css.map",
+    "main.591801da.js.map": "/prati_portfolio.github.io/static/js/main.591801da.js.map",
     "787.28cb0dcd.chunk.js.map": "/prati_portfolio.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.924011e5.css",
-    "static/js/main.1e277b9a.js"
+    "static/css/main.19912fc3.css",
+    "static/js/main.591801da.js"
   ]
 }
